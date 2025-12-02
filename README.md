@@ -1,2 +1,4 @@
 # Ahmedabad-Metro-Portal
-A Java-based metro ticketing system that allows users to select routes, calculate fares, and generate tickets. The project demonstrates strong use of OOP concepts, classes, objects, and file handling to simulate a real metro portal.
+The Ahmedabad Metro Portal is a Java-based console application designed to simulate real metro ticket booking and fare management. It allows users to choose their source and destination stations, automatically calculates the fare using predefined metro routes, and generates a digital ticket. The system demonstrates strong use of Object-Oriented Programming, with separate classes for ticket handling, route management, and portal operations.
+
+The project ensures smooth user interaction by validating station names, computing shortest routes, and providing clear step-by-step instructions. It is built using Java core concepts, including classes, objects, constructors, methods, arrays/lists, and file handling. This project replicates essential functionalities of an actual metro ticket system, making it a helpful real-world learning project.
